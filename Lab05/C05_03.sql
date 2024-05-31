@@ -2,7 +2,7 @@ CREATE VIEW ShohinJim (shohin_id, shohin_name, shohin_catalg, sell_price, buying
 AS 
 SELECT *
   FROM Shohin
- WHERE shohin_catalg = '�줽�Ϋ~';
+ WHERE shohin_catalg = 'żě¤˝ĽÎŤ~';
 
 
 
